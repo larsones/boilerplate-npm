@@ -1,5 +1,10 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "fcc-learn-npm-package-json", 
+	"author": "Eric Larson",
+	"description": "Here is my first project focusing on JavaScript API work",
+	"keywords": ["freeCodeCamp", "JavaScript", "API", "BackEnd Development","freecodecamp"],
+	"license": "BSD-2-Clause",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
